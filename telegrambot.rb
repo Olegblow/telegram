@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 #require ''
 require "telegram/bot"
 token = '190168130:AAEhzNuyAC4a2I9hCJ_3SIjmY4sQtVacRIU'
