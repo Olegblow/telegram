@@ -1,0 +1,30 @@
+ {chat id :61565025 
+ name :  Oleg 
+ text : /start  }
+ {chat id :61565025 
+ name :  Oleg 
+ text : /life  }
+ {chat id :61565025 
+ name :  Oleg 
+ text : lift  }
+ {chat id :61565025 
+ name :  Oleg 
+ text : /lift  }
+ {chat id :61565025 
+ name :  Oleg 
+ text : /start  }
+ {chat id :61565025 
+ name :  Oleg 
+ text : /start  }
+ {chat id :61565025 
+ name :  Oleg 
+ text : /help  }
+ {chat id :61565025 
+ name :  Oleg 
+ text : /orly  }
+ {chat id :61565025 
+ name :  Oleg 
+ text : /orly  }
+ {chat id :61565025 
+ name :  Oleg 
+ text : /clear  }
